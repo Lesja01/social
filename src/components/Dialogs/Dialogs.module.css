@@ -1,0 +1,6 @@
+.dialogs {
+  display: grid;
+  grid-template-areas: "dial mes";
+
+  grid-column: 100px 1fr;
+}
